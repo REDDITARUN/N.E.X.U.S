@@ -76,4 +76,6 @@ This repository showcases the versatility and power of different deep learning a
 
 This project in this repository is intended solely as an inspiration for your future projects and should be referenced accordingly. It is not meant for students to fulfill their academic project requirements. If a student uses this project for such purposes, the creators are not responsible. The student will be solely accountable for violating academic integrity. We explicitly state that this repository should not be used to meet academic requirements. Therefore, any academic integrity issues should be addressed with the student, not the creators.
 
+This work was completed as part of a course at the University at Buffalo. This report is intended to showcase our work for the purpose of sharing knowledge, not for any student to use it to satisfy academic requirements.
+
 This repo file provides a detailed overview of the models, their significance, data used, performance metrics, and key findings from the experiments conducted.
