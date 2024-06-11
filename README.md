@@ -1,4 +1,4 @@
-# 🧠 Deep Learning Architectures: CNN, RNN, LSTM, Autoencoder, and Transformer
+# 🧠 N.E.X.U.S - Neural Exploration and Understanding Systems
 
 ## Team Members
 
